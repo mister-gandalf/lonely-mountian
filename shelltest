@@ -1,0 +1,1 @@
+alert('Not Rick! Origin: '+location.origin+'\nUrl: '+top.location.href+'?');import('youtube.com/watch?v=oHg5SJYRHA0');
